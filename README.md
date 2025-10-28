@@ -1,3 +1,8 @@
+# Fake Voice 
+### (Powered by ElevenLabs)
+<img width="1805" height="1536" alt="image" src="https://github.com/user-attachments/assets/17206cff-7789-40d7-b2a3-1ea38a0e1c63" />
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
